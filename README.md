@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Unrulygal
-- 👀 I’m interested in UI/UX design
-- 🌱 I’m currently learning UI/UX design
+- 👋 Hi, I’m Ziri
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on what I'm interested in😉
 - 📫 How to reach me? Via my email (goziriim@gmail.com)
